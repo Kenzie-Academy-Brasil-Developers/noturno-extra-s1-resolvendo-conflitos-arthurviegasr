@@ -14,9 +14,10 @@ A partir da branch Main, crie uma branch chamada ``primeiro_fato``. Copie e cole
 ```markdown
 # Entrega: Resolvendo Conflitos.
 
-## Primeiro fato sobre <seu nome>
+## Segundo fato sobre <Arthur Viegas>
 
-Algum fato do primeiro DEV;
+Gosto de programar;
+
 ```
 
 Faça um ``commit`` e um ``push``. Volte para a branch ``master`` e repita o processo com uma branch ``segundo_fato`` e ``terceiro_fato``. Lembre-se de editar todos os dados possíveis de acordo com suas informações.
